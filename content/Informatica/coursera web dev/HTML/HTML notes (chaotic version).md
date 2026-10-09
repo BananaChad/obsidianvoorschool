@@ -1,16 +1,8 @@
-
 time for forms (cant you just link an external service like ms and google?)
 
 aaanyways
 
-
-
-
-
-
-
-
-#HTML 
+#HTML
 
 The `figure` element represents self-contained content and will allow you to associate an image with a caption.
 
@@ -26,8 +18,6 @@ try stomething
 
 oloooooh
 
-
-
 You can link to another page with the anchor (`a`) element. For example, `<a href='https://freecodecamp.org'></a>` would link to `freecodecamp.org`.
 
 Add an anchor element after the paragraph that links to `https://freecatphotoapp.com`. At this point, the link won’t show up in the preview.
@@ -35,7 +25,8 @@ Add an anchor element after the paragraph that links to `https://freecatphotoap
 ```html
 <a href='https://freecodecamp.org'></a>
 ```
-*the fuck is a anchor*
+
+_the fuck is a anchor_
 wait its invisible?
 hmmm
 is it like
@@ -45,8 +36,7 @@ idk
 A link's text must be placed between the opening and closing tags of an anchor (`a`) element. For example, `<a href="https://www.freecodecamp.org">click here to go to freeCodeCamp.org</a>` is a link with the text `click here to go to freeCodeCamp.org`.
 hmm
 so its like backlinks?
-lemme paste
-<a href="https://www.freecodecamp.org">click here to go to freeCodeCamp.org</a>
+lemme paste <a href="https://www.freecodecamp.org">click here to go to freeCodeCamp.org</a>
 OOH
 I GET IT
 NOW

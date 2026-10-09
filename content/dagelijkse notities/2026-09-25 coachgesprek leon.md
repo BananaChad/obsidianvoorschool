@@ -12,15 +12,4 @@ volgende week vrijdag weer zitten om de planning te maken gebaseerd op wat de va
 
 word document maken om alles bij elkaar te plakken
 
-leon maakt overzicht in onenote 
-
-
-
-
-
-
-
-
-
-
-
+leon maakt overzicht in onenote

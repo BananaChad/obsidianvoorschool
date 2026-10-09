@@ -1,1 +1,1 @@
-![[image 1.webp]]
+![[files/image 1.webp]]
