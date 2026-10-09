@@ -1,5 +1,9 @@
 ---
+publish: true
 title: Afbeeldingen in HTML
+created: 2026-10-09T14:29:16.916Z
+modified: 2026-10-09T12:28:46.000Z
+published: 2026-10-09T12:28:46.000Z
 ---
 
 # Afbeeldingen in HTML

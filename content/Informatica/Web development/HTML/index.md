@@ -1,6 +1,10 @@
 ---
+publish: true
 title: HTML
 description: Overzicht van mijn HTML-aantekeningen uit de cursus web development.
+created: 2026-10-09T14:29:16.964Z
+modified: 2026-10-09T12:28:46.000Z
+published: 2026-10-09T12:28:46.000Z
 ---
 
 # HTML

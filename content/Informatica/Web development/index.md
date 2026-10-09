@@ -1,6 +1,10 @@
 ---
+publish: true
 title: Web development
 description: Aantekeningen bij de cursus web development (HTML).
+created: 2026-10-09T14:29:16.922Z
+modified: 2026-10-09T12:28:46.000Z
+published: 2026-10-09T12:28:46.000Z
 ---
 
 # Web development

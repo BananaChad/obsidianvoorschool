@@ -1,7 +1,11 @@
 ---
+publish: true
 title: Wiskunde startbijeenkomst
+created: 2026-10-09T14:29:16.926Z
+modified: 2026-10-09T12:28:46.000Z
+published: 2026-10-09T12:28:46.000Z
 ---
-	
+
 # Wiskunde startbijeenkomst
 
 Notities van de startbijeenkomst voor wiskunde.
