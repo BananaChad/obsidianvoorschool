@@ -1,18 +1,27 @@
-Vwo heeft **4** delen, de boeken staan allemaal in teams **12de editie**
+---
+title: Wiskunde startbijeenkomst
+---
+	
+# Wiskunde startbijeenkomst
 
-grafische rekenmachinemodules staan ook in teams
+Notities van de startbijeenkomst voor wiskunde.
 
-studiewijzer + planning ook
+## Methode en boeken
 
-**Alle hoofstukken zijn nodig voor de PTA'S, in de wijzer kan staan alleen sommige maar je hebt ook stof van de andere hoofdstukken ervoor nodig**
+- De methode voor vwo heeft **4 delen**; alle boeken staan in Teams. Het is de **12e editie**.
+- De modules voor de grafische rekenmachine staan ook in Teams.
+- De studiewijzer en de planning staan in Teams.
 
-[wiskundelokaal](https://wiskundelokaal.nl/) oefenen met stof
-[Home \| Math4All](https://www.math4all.nl/) alternatieve manier als je de stof niet begrijpt(soort tweede boek)
+> [!important] Belangrijk
+> **Alle hoofdstukken zijn nodig voor de PTA's.** In de studiewijzer kan staan dat je maar sommige hoofdstukken hoeft te leren, maar je hebt ook de stof van de andere hoofdstukken nodig.
 
-stof uitgelegd:
+## Waar kun je oefenen?
 
-[Math with Menno - YouTube](https://www.youtube.com/@MathwithMenno)
-[WiskundeAcademie - YouTube](https://www.youtube.com/user/WiskundeAcademie) 
+- [Wiskundelokaal](https://wiskundelokaal.nl/) – oefenen met de stof
+- [Math4All](https://www.math4all.nl/) – alternatieve uitleg van de stof (een soort tweede boek)
+- [Wiskunde-examens](https://www.wiskunde-examens.nl/) – oefenen met examenstof
 
-[wiskunde-examens.nl](https://www.wiskunde-examens.nl/)
-examenstof oefenen
+## Uitleg op YouTube
+
+- [Math with Menno – YouTube](https://www.youtube.com/@MathwithMenno)
+- [WiskundeAcademie – YouTube](https://www.youtube.com/user/WiskundeAcademie)
