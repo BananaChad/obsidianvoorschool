@@ -9,14 +9,16 @@ headers are used to add big bold text to your website, when you make a powerpoin
 
 </html>
 ```
+
 the above code would show up in a website like this:
 ![[Pasted image 20231030104338.webp]]		<h1> big text </h1>
+
 <p>lorem ipsum bla bla bla</p>		
 as obsidian is weird with spacing, i will provide screenshots to any reference i try to preview.
 
 # Headers Can Be Scaled down
 
-there are 6 possible headers counting down from h6 to h1, this is used to make **bold text** bigger or smaller on your website, a quick preview is shown here 
+there are 6 possible headers counting down from h6 to h1, this is used to make **bold text** bigger or smaller on your website, a quick preview is shown here
 (code used)
 
 ```html
@@ -32,4 +34,5 @@ there are 6 possible headers counting down from h6 to h1, this is used to make *
   </body>
 </html>
 ```
+
 ![[Pasted image 20231030105034.webp]]

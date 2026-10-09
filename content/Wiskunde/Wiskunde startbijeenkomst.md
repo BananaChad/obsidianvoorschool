@@ -7,12 +7,12 @@ studiewijzer + planning ook
 **Alle hoofstukken zijn nodig voor de PTA'S, in de wijzer kan staan alleen sommige maar je hebt ook stof van de andere hoofdstukken ervoor nodig**
 
 [wiskundelokaal](https://wiskundelokaal.nl/) oefenen met stof
-[Home \| Math4All](https://www.math4all.nl/) alternatieve manier als je de stof niet begrijpt(soort tweede boek)
+[Home | Math4All](https://www.math4all.nl/) alternatieve manier als je de stof niet begrijpt(soort tweede boek)
 
 stof uitgelegd:
 
 [Math with Menno - YouTube](https://www.youtube.com/@MathwithMenno)
-[WiskundeAcademie - YouTube](https://www.youtube.com/user/WiskundeAcademie) 
+[WiskundeAcademie - YouTube](https://www.youtube.com/user/WiskundeAcademie)
 
 [wiskunde-examens.nl](https://www.wiskunde-examens.nl/)
 examenstof oefenen

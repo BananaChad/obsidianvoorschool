@@ -1,18 +1,22 @@
-#HTML 
+#HTML
 this is used by using the `anchor` element
 the anchor is a bit confusing me
-its like the [[IMAGES IN HTML]] element but instead of img and alt 
+its like the [[IMAGES IN HTML]] element but instead of img and alt
 its a href (where the link goes) and just plain text before the closing tag
 heres a quick example
+
 ```html
 <a href = "https://google.com">this is google.</a>
 ```
+
 <a href = "https://google.com">this is google.</a>
 
 you can use it in combinations with paragraphs to add a clickable link IN YOUR SENTENCE
+
 ```html
 <p> this is <a href = "https://google.com">google.</a></p>
 ```
+
 <p> this is <a href = "https://google.com">google.</a></p>
 also quick accessibility tip
 use `hreflang` to tell the browser what language your link is meant to be seen in
