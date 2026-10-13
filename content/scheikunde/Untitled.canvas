@@ -2,18 +2,19 @@
 	"nodes":[
 		{"id":"98f17f126e6f61e0","x":-124,"y":-420,"width":250,"height":60,"type":"text","text":"Molariteit\n(M = mol/L)"},
 		{"id":"f50e6b9fc795f2af","x":-487,"y":-216,"width":250,"height":60,"type":"text","text":"massa (=m)\n(g)"},
-		{"id":"c23c153c5953a61d","x":-487,"y":-20,"width":250,"height":60,"type":"text","text":"Volume gas, vloeistof of vast (=V)\n(dm^3 = L)"},
 		{"id":"af4320aa128d951c","x":-124,"y":-20,"width":250,"height":60,"type":"text","text":"Volume gas (=V)\n(dm^3)"},
-		{"id":"2329c7429be6c4ec","x":-124,"y":-208,"width":250,"height":44,"type":"text","text":"Chemische hoeveelheid\n\t\t(mol)"}
+		{"id":"e6ce8b4f44eee49c","x":260,"y":-216,"width":250,"height":60,"type":"text","text":"aantal atomen \nof moleculen"},
+		{"id":"2329c7429be6c4ec","x":-124,"y":-208,"width":250,"height":44,"type":"text","text":"Chemische hoeveelheid\n\t\t(mol)"},
+		{"id":"c23c153c5953a61d","x":-487,"y":-20,"width":250,"height":60,"type":"text","text":"Volume gas, vloeistof of vast (=V)\n(dm^3 = L)"}
 	],
 	"edges":[
-		{"id":"0a994b79c385c8ec","fromNode":"f50e6b9fc795f2af","fromSide":"bottom","toNode":"c23c153c5953a61d","toSide":"top"},
-		{"id":"0983fec50df6f839","fromNode":"2329c7429be6c4ec","fromSide":"left","toNode":"f50e6b9fc795f2af","toSide":"right"},
-		{"id":"faa55ab24960f214","fromNode":"2329c7429be6c4ec","fromSide":"top","toNode":"98f17f126e6f61e0","toSide":"bottom"},
-		{"id":"fabc4b8a90226a71","fromNode":"2329c7429be6c4ec","fromSide":"bottom","toNode":"af4320aa128d951c","toSide":"top"},
-		{"id":"1e63213c63d58715","fromNode":"f50e6b9fc795f2af","fromSide":"right","toNode":"2329c7429be6c4ec","toSide":"left"},
-		{"id":"a453a4354cca2152","fromNode":"c23c153c5953a61d","fromSide":"top","toNode":"f50e6b9fc795f2af","toSide":"bottom"},
-		{"id":"2ff5c9dd9c9a7875","fromNode":"af4320aa128d951c","fromSide":"top","toNode":"2329c7429be6c4ec","toSide":"bottom"},
-		{"id":"7ec60f5993ec3981","fromNode":"98f17f126e6f61e0","fromSide":"bottom","toNode":"2329c7429be6c4ec","toSide":"top"}
+		{"id":"faa55ab24960f214","fromNode":"2329c7429be6c4ec","fromSide":"top","toNode":"98f17f126e6f61e0","toSide":"left"},
+		{"id":"2ff5c9dd9c9a7875","fromNode":"af4320aa128d951c","fromSide":"left","toNode":"2329c7429be6c4ec","toSide":"bottom"},
+		{"id":"7ec60f5993ec3981","fromNode":"98f17f126e6f61e0","fromSide":"right","toNode":"2329c7429be6c4ec","toSide":"top","label":"V (L)"},
+		{"id":"cdbf8609b7257c23","fromNode":"e6ce8b4f44eee49c","fromSide":"bottom","toNode":"2329c7429be6c4ec","toSide":"right"},
+		{"id":"315386197b8210db","fromNode":"2329c7429be6c4ec","fromSide":"right","toNode":"e6ce8b4f44eee49c","toSide":"top"},
+		{"id":"fe6575fa5c49a824","fromNode":"2329c7429be6c4ec","fromSide":"bottom","toNode":"af4320aa128d951c","toSide":"right"},
+		{"id":"d3699bc95e5ac569","fromNode":"c23c153c5953a61d","fromSide":"left","toNode":"f50e6b9fc795f2af","toSide":"bottom"},
+		{"id":"f63679d97aa786ea","fromNode":"f50e6b9fc795f2af","fromSide":"bottom","toNode":"c23c153c5953a61d","toSide":"right"}
 	]
 }
